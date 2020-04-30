@@ -3,6 +3,7 @@ fhand = open(fname)
 count = 0
 
 for line in fhand:
+    if line.startswith('From:'): continue
     if not line.startswith('From'): continue
     words = line.split()
     count = count + 1
