@@ -1,4 +1,4 @@
-# coursera_private
+# Python3
 
 These are exercises take from the book "Python for Everybody: Exploring Data in Python 3" by Charles Severance. For beginners, they are rewarding to figure out, especially when it comes to chapter 9 - the heart of the material for people seeking to learn Python.
 
